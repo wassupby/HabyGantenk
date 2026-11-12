@@ -1,0 +1,12 @@
+com\grafkom\render\LitMesh.class
+com\grafkom\viewing3d\HSRManager.class
+com\grafkom\viewing3d\Texture2D.class
+com\grafkom\projection\ProjectionTaxonomyManager.class
+com\grafkom\render\StereoAnaglyphRenderer.class
+com\grafkom\viewing3d\ShadowMapFBO.class
+com\grafkom\render\ShaderProgram.class
+com\grafkom\viewing3d\ThreeDViewing.class
+com\grafkom\camera\Camera3D.class
+com\grafkom\projection\PerspectiveProjection.class
+com\grafkom\render\Mesh3D.class
+com\grafkom\projection\ProjectionTaxonomyManager$ProjectionType.class
